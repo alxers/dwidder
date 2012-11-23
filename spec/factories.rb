@@ -9,4 +9,10 @@ FactoryGirl.define do
 	  admin true
 	end
   end
+
+#  factory :micropost do
+#	content "Lorem ipsum"
+#	user
+ # end
+  # HAVE NO IDEA WHY it should be commented out, (rake aborted! otherwise)
 end
